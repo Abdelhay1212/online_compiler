@@ -27,11 +27,10 @@
   </ol>
 </details>
 
-
+# Online Python Interpreter
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]]
 
 This is a simple online interpreter for Python that you can use to run your small code snippets and maybe use to solve LeetCode problems. Enjoy!
@@ -66,19 +65,19 @@ To get a local copy up and running follow these simple example steps.
 First you need python in you computer
 Follow these instructions to install python
 
-* Windows
-    Go to the official Python website https://www.python.org/downloads/.
-    Click on the "Download Python" button to download the latest version for Windows.
+##### Windows
+    * Go to the official Python website https://www.python.org/downloads/.
+    * Click on the "Download Python" button to download the latest version for Windows.
 
-* Linux
-    Run the following commands
+##### Linux
+    * Run the following commands
     ```sh
     sudo apt update
     sudo apt install python3
     ```
 
-* macOS
-    If you have brew installed, run the following command
+##### macOS
+    * If you have brew installed, run the following command
     ```
     brew install python
     ```

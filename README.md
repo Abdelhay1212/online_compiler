@@ -3,7 +3,6 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-    <h1>Online Interpreter For Python</h1>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -141,7 +140,7 @@ Project Link: [https://github.com/Abdelhay1212/online_compiler](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
+[product-screenshot]: ./interpreter.png
 
 [Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/

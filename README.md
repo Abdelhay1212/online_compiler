@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]]
 
 This is a simple online interpreter for Python that you can use to run your small code snippets and maybe use to solve LeetCode problems. Enjoy!
 

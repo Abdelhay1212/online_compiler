@@ -79,6 +79,10 @@ let editor = CodeMirror.fromTextArea(document.getElementById("code"), {
 });
 
 run.addEventListener('click', () => {
+  if (!socket.connected) {
+    return;
+  }
+
   isRunning(true);
   output.value = '';
 
